@@ -20,6 +20,8 @@ Code to reproduce the results in the paper:
     - Code to generate Figure 5.
 - synthetic/
     - Code to generate Figure 7. Visualization: ExploreL.ipynb.
+ 
+Cached results for synthetic experiments can be found [here](https://drive.google.com/file/d/1-jkgcCVeZGnOXGaKnXB6VUZ0Hz_Dee_G/view?usp=sharing).
 
 ## Contact
 If you have any questions or concerns about code, please contact us: `liam.he15@gmail.com`.
